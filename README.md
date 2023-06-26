@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -63,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- N/A
+- [Live Demo Link](https://superb-cucurucho-982ab9.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
